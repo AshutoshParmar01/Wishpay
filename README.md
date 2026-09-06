@@ -1,4 +1,4 @@
-# PayTM - Simple Payment Application
+# PayTM clone- Simple Transaction Processing Application
 
 A basic payment application built with Node.js/Express backend and React frontend with MongoDB database.
 
